@@ -1,0 +1,37 @@
+{
+    "1234": {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "language": "English"
+    },
+    "1235": {
+        "title": "Harry Potter",
+        "author": "J. K. Rowling",
+        "language": "English"
+    },
+    "1236": {
+        "title": "The Strangers",
+        "author": "Katherena Vermette ",
+        "language": "English"
+    },
+    "1237": {
+        "title": "101 ESSAYS THAT WILL CHANGE THE WAY YOU THINK",
+        "author": "Brianna Wiest",
+        "language": "English"
+    },
+    "1238": {
+          "title": "THE MOUNTAIN IS YOU: TRANSFORMING SELF-SABOTAGE INTO SELF-MASTERY",
+          "author": "Brianna Wiest",
+          "language": "English"
+    },
+    "1239": {
+            "title": "DAUGHTER OF THE MOON GODDESS: A NOVEL",
+            "author": "Sue Lynn Tan",
+            "language": "English"
+    },
+    "1240": {
+            "title": "THE EX HEX: A NOVEL",
+            "author": "Erin Sterling",
+            "language": "English"
+    }
+}
